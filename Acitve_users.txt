@@ -2,3 +2,4 @@ IdUser
 IsActive
 Name
 Role
+Status
