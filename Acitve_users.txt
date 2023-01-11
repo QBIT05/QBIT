@@ -2,3 +2,5 @@ IdUser
 IsActive
 Name
 Role
+
+Dodaje nowy status
